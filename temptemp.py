@@ -3,6 +3,9 @@
 def temp():
 	pass
 
+def temp2():
+  pass
+
 def main():
   pass
 
